@@ -24,9 +24,7 @@
     string status = 1 ;
  }
 
-
 message Empty{}
-
 
  service ProductService {
     rpc listProduct (Empty) returns (ProductList);
@@ -36,4 +34,3 @@ message Empty{}
     rpc deleteProduct (ProductId) returns (Result);
  } 
 
- 
