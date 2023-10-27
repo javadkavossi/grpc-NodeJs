@@ -1,4 +1,4 @@
-const { model, default: mongoose } = require("mongoose");
+const { default: mongoose } = require("mongoose");
 
 module.exports = mongoose
   .connect("mongodb://localhost:27017/grpc-nodejs")

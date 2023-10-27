@@ -16,7 +16,7 @@
  }
 
  message NewProduct {
-    string titel = 1;
+    string title = 1;
     string price = 2 ;
  }
 
