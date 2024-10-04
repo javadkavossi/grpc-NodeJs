@@ -44,7 +44,7 @@ The project is organized into the following sections:
 
 
 
-### Description (with Emoji)
+### Description 
 
 "🌐 Node.js project integrating Express.js for RESTful APIs and gRPC for high-performance microservice communication 🚀. Learn how to combine REST and gRPC in a unified application 🤝."
 
